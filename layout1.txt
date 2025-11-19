@@ -1,0 +1,7 @@
+# Width, Height, XPos, and YPos are all ratios with 1 being the full screen height/width. 
+# So for example "Window 0.5 0.5 0 0" would make a window half the screen width and screen height at the top left of the screen
+# "Window" Width Height XPos YPos
+
+Window 1 0.5 0 0
+Window 0.5 0.5 0 0.5
+Window 0.5 0.5 0.5 0.5
